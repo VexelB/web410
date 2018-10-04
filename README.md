@@ -1,4 +1,5 @@
-Проблема - ```js const square = function(){ return this * this };
+Проблема - ```javascript
+const square = function(){ return this * this };
 console.log(5::square()); ```
 
 
