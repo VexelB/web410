@@ -1,7 +1,6 @@
-Проблема - ```
+Проблема - ```js 
 const square = function(){ return this * this };
-console.log(5::square()); 
-```
+console.log(5::square()); ```
 
 
 # а за результатами см. консоль
