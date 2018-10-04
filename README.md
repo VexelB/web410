@@ -1,4 +1,4 @@
-Проблема - ```python
+Проблема - ```
 const square = function(){ return this * this };
 console.log(5::square()); ```
 
