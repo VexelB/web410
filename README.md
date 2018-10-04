@@ -8,11 +8,17 @@ console.log(5::square());
 <img src='babel.png'>
 
 прописываем данный код в терминале в папке проекта, для добавления babel непосредственно в ваш проект <img src='yarn.png'>
-и прописывания этого <img src='json.png'> в ваш json файл
+и прописывания этого 
+
+<img src='json.png'> 
+
+в ваш json файл
 
 создаем в проекте файл с именем .babelrc с данным текстом <img src='babelrc.png'>
 
 далее прописываем наш код в bind.js и по выполнении команды "yarn build" в терминале получаем result.js с исправленным кодом
+
+<img src='result.png'>
 
 2. мда
 
